@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+    <img src="image/hacker-modified.png">
+
+<h1>CYBERTECH</h1>
+<p> <i> Hello I am Abhishek Bisht</i></p>
+<p><i>Student at <a href="https://youtube.com/shorts/bnmfQLs9HIQ?feature=share">Ignou</a></i></p>
+<p>Future <a href="https://youtube.com/shorts/HR4eXLjpynM?feature=share">web-developement</a></p>
+<p>I am a BCA student from IGNOU and I am learning and programming of different languages. My goal is to be the best developer . Currently I am learning code from different platforms.</p>
+<p>Link TO :<a href="https://youtu.be/oqXJoE-ijUk">MDN WEB DOCS.</a></p>
+<hr color="red">  
+<hr color="yellowgreen">  
+<h1> GOALS </h1>
+<li>Learn HTML</li>
+<li>Learn CSS</li>
+<li>Learn NODEJS</li>
+<li>Learn JSCRIPT</li>
+<li>Learn MONGODB</li>
+<li>Learn REACTJS</li>
+<hr  color="red">  
+<hr  color="yellowgreen">
+<h1> History of My Friends </h1>
+<h3><li> Mohit Rawat </li></h3>
+<p><u>vaise toh ye dikhne m toh bhaut shareef type ka ladka lgta h but jb bhi ye apna mu kholta hai toh humesha kisi ka mu band ho jaata h unme se ek ma bhi hu. ye ladka itna harami h isne mujhe kitni baar buddhu bnaya or mujhe pta tk ni chal paya. jb bhi hum dono saath m hote h tb thik rhta h sb kuch but jaise he humara ek or dost aa jaata h hume join krne tb ye bhai sahab use akele m le jaakr pta  nhi kya bolte h taaki meri kilsa ske.jaisa bhi h ye dil ka bhaut saaf ladka h. </u></h4>
+</p>
+
+ </body>
+</html>
